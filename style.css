@@ -1,0 +1,109 @@
+header {
+
+    width: 90%;
+
+    height: 100px;
+
+    background-color: #0B3361;
+
+    border: 3px solid black;
+
+    padding: 10px;
+
+    margin: 25px;
+    color: white;
+
+}
+
+
+
+nav {
+
+    position: fixed;
+
+    width: 90%;
+
+    height: 50px;
+
+    background-color: #4F5863;
+
+    position: fixed;
+
+    top: 170px;
+
+    left: 35px;
+    color: white;
+}
+
+
+
+article {
+
+    width: 65%;
+
+    height: 200px;
+
+    background-color: #5296E6;
+
+    border: 5px solid black;
+
+    position: relative;
+
+    top: 15px;
+
+}
+
+
+
+aside {
+
+    width: 40%;
+
+    height: 420px;
+
+    background-color: #1976E0;
+
+    position: absolute;
+
+    left: 50%;
+
+    right: 10%;
+
+    top: 235px;
+    color: white;
+
+}
+
+
+
+footer {
+
+    width: 100%;
+
+    height: 50px;
+
+    background-color: #135BAD;
+
+    position: fixed;
+
+    bottom: 0px;
+    color: white;
+
+}
+
+
+
+.articles {
+
+    position: relative;
+
+    left: 30px;
+
+    top: 45px;
+
+    width: 65%;
+
+    height: 70%;
+    color: white;
+
+}
